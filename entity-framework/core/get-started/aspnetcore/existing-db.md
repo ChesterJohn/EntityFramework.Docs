@@ -70,7 +70,7 @@ We will be using some Entity Framework Tools to create a model from the database
 
 We will be using some ASP.NET Core Scaffolding tools to create controllers and views later on. So we will install this design package as well:
 
-* Run `Install-Package Microsoft.VisualStudio.Web.CodeGeneration.Design`
+* Run `Install-Package Microsoft.EntityFrameworkCore.SqlServer.Design`
 
 ## Reverse engineer your model
 
